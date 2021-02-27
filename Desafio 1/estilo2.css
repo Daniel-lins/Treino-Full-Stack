@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    padding: 20px;
+    background-image: url("iamges/people.jpg")
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+    color: #ffff;
+    padding: 10px;
+
+}
+
+.title {
+    font-size: 26px;
+
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.formContainer {
+    background-color: #ffffffbb;
+    max-width: 230px;
+    padding: 20px;
+    float: right;
+}
+
+
+h2 {
+
+    font-size: 16px;
+}
+
+.mb {
+
+    margin-bottom: 25px;
+}
